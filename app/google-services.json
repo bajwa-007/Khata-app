@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "426961648421",
+    "project_id": "khata-app-fb72a",
+    "storage_bucket": "khata-app-fb72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426961648421:android:23a52f5bd1d2e488bf38cc",
+        "android_client_info": {
+          "package_name": "com.example.khaata_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH2KBCj3Wd3iFfVbwiOkz0Z84dD5EyY4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

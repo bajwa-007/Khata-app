@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Khaata_App</string>
+    <string name="add_email">Add Email Address</string>
+    <string name="add_password">Add Password</string>
+    <string name="back">Home</string>
+    <string name="loginpage">LOGIN PAGE</string>
+    <string name="registrationpage">REGISTRATION PAGE</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="Easy_Khata">APKA KHAATA</string>
+    <string name="Enter_username">Enter Username</string>
+    <string name="Welcome">WELCOME </string>
+    <string name="Move_to_Khaata">Move To Khaata</string>
+    <string name="Khaata_Manager">KHAATA MANAGER</string>
+    <string name="Enter_Customer_Name">Enter Customer Name</string>
+    <string name="Add">ADD</string>
+    <string name="Delete">DELETE</string>
+    <string name="Send">SEND</string>
+    <string name="Receive">RECEIVE</string>
+    <string name="Add_Customer">ADD CUSTOMER</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="Enter_Amount">Enter Amount</string>
+    <string name="Enter_Phone">Enter Phone</string>
+    <string name="Generate_Pdf">Generate PDF</string>
+    <string name="Send_Report">Send Report</string>
+    <string name="Request">Request</string>
+    <string name="Update_Delete_Dialog">Update And Delete Dialog</string>
+    <string name="Update">UPDATE</string>
+    <string-array name="currency_options">
+        <item>Rupees</item>
+        <item>Dollar</item>
+        <item>Riyal</item>
+        <item>Yen</item>
+    </string-array>
+</resources>

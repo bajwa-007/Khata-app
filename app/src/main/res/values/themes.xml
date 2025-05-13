@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Khaata_App" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorOnPrimary">@color/dark_on_primary</item>
+        <item name="colorSecondary">@color/dark_secondary</item>
+        <item name="colorOnSecondary">@color/dark_on_secondary</item>
+        <item name="colorSurface">@color/black</item>
+        <item name="colorOnSurface">@color/dark_on_surface</item>
+        <item name="android:colorBackground">@color/dark_background</item>
+        <item name="colorOnError">@color/dark_on_error</item>
+        <item name="colorError">@color/dark_error</item>
+
+    </style>
+
+    <style name="Theme.Khaata_App" parent="Base.Theme.Khaata_App" />
+</resources>

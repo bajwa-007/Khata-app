@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#F8F8F8</color>
+    <color name="grey">#E0E0E0</color>
+    <color name="background">#E0E0E0</color>
+    <color name="background_user_name_display">#F6F4F4</color>
+    <color name="button_default">#6200EE</color>
+    <color name="button_text">#FFFFFF</color>
+
+    <!-- Dark theme colors -->
+    <color name="dark_primary">#BB86FC</color>
+    <color name="dark_on_primary">#000000</color>
+    <color name="dark_secondary">#03DAC6</color>
+    <color name="dark_on_secondary">#000000</color>
+    <color name="dark_surface">#121212</color>
+    <color name="dark_on_surface">#E0E0E0</color>
+    <color name="dark_background">#121212</color>
+    <color name="dark_error">#CF6679</color>
+    <color name="dark_on_error">#000000</color>
+</resources>
